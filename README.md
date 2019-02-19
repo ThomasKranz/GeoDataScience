@@ -2,7 +2,7 @@ By this short introduction using geospatial data in Python I combine three diffe
 
 I will go on soon with a K-Means Clustering algorithm for the population and GDP data containing in the Natural Earth data sheet. 
 
-In a following project I will start with SVM algorithms on these geo data. Feel free to practise with the data from the folder below.
+In a following project I will start with SVM algorithms on these geo data. Feel free to practice with the data from the folder below.
 
 Download as .zip: https://www.tu-chemnitz.de/mathematik/numa/lehre/ds-2018/exercises/GEOdata.zip
 
