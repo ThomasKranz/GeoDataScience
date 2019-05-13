@@ -11,6 +11,3 @@ view file **[Using Geo Data in Python](https://bit.ly/2SN3oTl)**
 view file **[Agglomerative and Kmeans Clustering](https://bit.ly/2SN3D0H)**
 
 Enjoy Reading and contact for questions anytime!
-
-![title](geodata.jpeg)
-
